@@ -9,6 +9,7 @@ public class TestClass1 {
 public void testCase1() {
 	
 	System.out.println("this is Test Case1");
+	System.out.println("this is a new comment");
 }
 @Test(groups= {"SANITY"})	
 public void testCase2() {
