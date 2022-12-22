@@ -11,6 +11,7 @@ public void testCase1() {
 	System.out.println("this is Test Case1");
 	System.out.println("this is a new comment");
 	System.out.println("this is another comment");
+	System.out.println("this is my latest comment");
 }
 @Test(groups= {"SANITY"})	
 public void testCase2() {
